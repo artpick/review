@@ -9,9 +9,9 @@ Functionnal Programing
 
 OO Design Patterns
 * Supplier
-* Handler
+* Chain of responsibility [Go](https://github.com/iluwatar/java-design-patterns/tree/master/chain)
 * Template
-* Builder
+* Builder 
 
 Notes:
 * Array / List
