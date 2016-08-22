@@ -1,17 +1,16 @@
 # Reviews
 
 Functionnal Programing
-* Pattern matching
-* Algebric datatypes
-* Type inference
+* Pattern matching & Algebric datatypes [Go](https://en.wikipedia.org/wiki/Algebraic_data_type)
+* Type inference [Go](http://stackoverflow.com/questions/399312/what-is-hindley-milner/399392)
 * Non desctructive (Produces values)
-* Curring
+* Curring [Go](http://stackoverflow.com/questions/36314/what-is-currying)
 
-OO Design Patterns
+OO Design Patterns / Toolkits
 * Supplier
 * Chain of responsibility [Go](https://github.com/iluwatar/java-design-patterns/tree/master/chain)
 * Template
-* Builder 
+* Builder / Step Builder [Go](https://github.com/iluwatar/java-design-patterns/tree/master/step-builder)
 
 Notes:
 * Array / List
