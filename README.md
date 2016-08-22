@@ -15,8 +15,8 @@ OO Design Patterns
 
 Notes:
 * Array / List
-* * Static vs Dyanmic size
+ * Static vs Dyanmic size
 * Override / Overload
-* * Modify an existing behavior vs Change the signature and add a new behavior
+ * Modify an existing behavior vs Change the signature and add a new behavior
 * Linked List / Array List
-* * Link between elements / Elements are stored side by side (takes times when there's a lot)
+ * Link between elements / Elements are stored side by side (takes times when there's a lot)
