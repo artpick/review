@@ -19,3 +19,6 @@ Notes:
  * Modify an existing behavior vs Change the signature and add a new behavior
 * Linked List / Array List
  * Link between elements / Elements are stored side by side (takes times when there's a lot)
+
+Linux Memo:
+* Space left on device *du --max-depth=1* [Go](https://www.peterbe.com/plog/du-max-depth)
